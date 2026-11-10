@@ -86,7 +86,7 @@ Projeto de exemplo, livre para estudar, modificar e usar como base. Todos os nom
 
 ## Link do site
 
-[https://beatrizzdias.github.io/agendamento-odontologico/html/](https://beatrizzdias.github.io/Agendamento-Odontologico/html/)
+[https://beatrizzdias.github.io/Agendamento-Odontologico/html/](https://beatrizzdias.github.io/Agendamento-Odontologico/html/)
 
 ## Autora
 
